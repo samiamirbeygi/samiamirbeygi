@@ -1,3 +1,4 @@
+![logo](https://github.com/samiamirbeygi/samiamirbeygi/blob/main/Programming-while-true-Wallpaper.png)
 <h1 align="center">Hi 👋, I'm Samia</h1>
 <h3 align="center">computer engineer from Iran</h3>
 <img align="right" alt="programming" width = "400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
